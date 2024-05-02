@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<familiar description="Let's keep it clean!" gfx="VacuumCleaner.png"  name="Vacuum Cleaner" cache="familiars" />
+</items>
